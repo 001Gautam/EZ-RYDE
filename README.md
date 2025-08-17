@@ -21,7 +21,7 @@ Support for multiple ride options (bike, cab, shared, etc.)
 
 Frontend: Flutter (Dart)
 
-Backend: [Add your backend stack if applicable, e.g., Node.js, Firebase]
+Backend: [Node.js, Firebase]
 
 Maps & Location: Google Maps API / OpenStreetMap
 
@@ -59,4 +59,5 @@ Dart Language Guide
 # 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request with improvements or new features.
+
 
