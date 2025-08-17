@@ -1,5 +1,8 @@
 # EZ-RYDE
 
+<img width="1536" height="1024" alt="ChatGPT Image Aug 17, 2025, 12_11_41 PM" src="https://github.com/user-attachments/assets/fe063718-2c3b-4ee9-84b5-3498375dcac4" />
+
+
 EZ-RYDE is a Flutter-based mobile application designed to simplify urban commuting with a modern, intuitive, and reliable ride-booking experience.
 
 # 🚀 Features
@@ -56,3 +59,4 @@ Dart Language Guide
 # 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request with improvements or new features.
+
